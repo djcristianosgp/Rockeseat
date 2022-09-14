@@ -13,7 +13,14 @@ body{
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
-    background-color: #121214;
+    background-color: #121214;    
+}
+header img{
+    width: 150px;
+    border-radius: 70%;
+    background-image: linear-gradient(90deg,#9572fc 0%, #43e7ad 50.52%,#e2d45c 100%);
+    padding: 4px;    
+    margin: auto;
 }
 /*main * {
     border: 1px solid red;
